@@ -1,1 +1,1 @@
-web https://moonlit-panda-f252de.netlify.app
+Deploy web https://moonlit-panda-f252de.netlify.app
